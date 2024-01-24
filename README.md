@@ -4,10 +4,10 @@
 
 
  **Progetto per esame di Mobile Computing realizzato da:**
- - Andrea Macale [560793];
- - Diego Scirocco [558658];
- - Emanuele Sergiacomi [559995];
- - Emanuele Marzano[566201].
+ - Andrea Macale [560793] and.macale@stud.uniroma3.it;
+ - Diego Scirocco [558658] die.scirocco@stud.uniroma3.it;
+ - Emanuele Sergiacomi [559995] ema.sergiacomi@stud.uniroma3.it;
+ - Emanuele Marzano[566201] ema.marzano@stud.uniroma3.it.
 
  "**SANTA-CLOUD 2D**" E' un gioco platform che ha come protagonista Babbo Natale che come obiettivo quello di raccogliere finire tutti i livelli, 
  impiegando il minor tempo possibile. E' possibile tramite il raccoglimento dei regali ottenere un bonus sul tempo. Al contrario la morte causerà un
