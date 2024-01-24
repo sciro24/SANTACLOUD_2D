@@ -1,5 +1,14 @@
-# SANTACLOUD_2D
- Progetto per esame di Mobile Computing realizzato da Andrea Macale, Diego Scirocco, Emanuele Sergiacomi ed Emanuele Marzano.
+# SANTACLOUD_2D  <p align="center"> 
+  <img src="https://github.com/sciro24/SANTACLOUD_2D/assets/66693795/64a28d0b-924a-4ed9-98ce-d92c0489a041" width="100" title="hover text">
+</p>
+
+
+ Progetto per esame di Mobile Computing realizzato da:
+ Andrea Macale,
+ Diego Scirocco,
+
+ Emanuele Sergiacomi,
+ Emanuele Marzano.
 
  "SANTA-CLOUD 2D" E' un gioco platform che ha come protagonista Babbo Natale che come obiettivo quello di raccogliere finire tutti i livelli, 
  impiegando il minor tempo possibile. E' possibile tramite il raccoglimento dei regali ottenere un bonus sul tempo. Al contrario la morte causerà un
@@ -20,7 +29,7 @@
    - Logout
    - Selezione dei mondi (Orizzontale e Verticale)
    - Leaderboard button
- 
+
  • Mondo orizzontale composto da tre livelli di difficoltà crescente.
  • Mondo verticale comporto da tre livelli di difficoltà crescente.
 
