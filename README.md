@@ -7,6 +7,8 @@
  - Emanuele Sergiacomi [559995] ema.sergiacomi@stud.uniroma3.it;
  - Emanuele Marzano[566201] ema.marzano1@stud.uniroma3.it.
 
+---
+
  "**SANTA-CLOUD 2D**" E' un gioco platform che ha come protagonista Babbo Natale. L'obiettivo è quello di finire tutti i livelli impiegando 
  il minor tempo possibile. E' possibile tramite il raccoglimento dei regali ottenere un bonus sul tempo, al contrario la morte causerà un
  malus sempre sul tempo. Alla fine di ogni mondo il punteggio viene salvato all'interno della classifica aggiornandola in ordine di te.
@@ -41,6 +43,9 @@
  • **Leaderboard Online dedicata al mondo orizzontale, include (Posizione / Player / Punteggio in secondi).**
   
  • **Leaderboard Online dedicata al mondo verticale include (Posizione / Player / Punteggio in secondi).**
+ 
+ ---
+ 
  
 > [!CAUTION]
  **OGNI STUDENTE HA LAVORATO IN UNA REPOSITORY PROPRIETARIA ALL'INTERNO DELLE QUALI SONO STATI EFFETTUATI I DIVERSI COMMIT:**
