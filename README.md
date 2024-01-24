@@ -30,8 +30,9 @@
    - Mute button
    - Home button
  
-  • Leaderboard Online dedicata al mondo orizzontale, include (Posizione / Player / Punteggio in secondi).
-  • Leaderboard Online dedicata al mondo verticale include (Posizione / Player / Punteggio in secondi).
+ • Leaderboard Online dedicata al mondo orizzontale, include (Posizione / Player / Punteggio in secondi).
+  
+ • Leaderboard Online dedicata al mondo verticale include (Posizione / Player / Punteggio in secondi).
 
  
 
