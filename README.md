@@ -15,7 +15,7 @@
 
  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Yfkyk-ewKuU/0.jpg)](https://www.youtube.com/watch?v=Yfkyk-ewKuU)
 
-**LISTA DI IMPLEMENTAZIONIO EFFETTUATE**:
+**LISTA DI IMPLEMENTAZIONI EFFETTUATE**:
 
  • **Playfab**: Registrazione/Login utente, Recupero Password, Leaderboard.
 
