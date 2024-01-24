@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0 - Start Screen.unity
+    guid: f870bc1ed8002894e8098795bc3a113f
+  - enabled: 1
+    path: Assets/Scenes/1 - Login.unity
+    guid: a42ca186bc354481e96d4cc1c4a1728d
+  - enabled: 1
+    path: Assets/Scenes/2 - Select World.unity
+    guid: ee6d834d7e0c542ccae1aa2c6a4f91d0
+  - enabled: 1
+    path: Assets/Scenes/3 - Horizontal 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/4 - Horizontal 2.unity
+    guid: 6905e2e02dcfc3d45b4f49610ad55d7a
+  - enabled: 1
+    path: Assets/Scenes/5 - Horizontal 3.unity
+    guid: 20b92e62446a74656b6f8363a248d115
+  - enabled: 1
+    path: Assets/Scenes/6 - Vertical 1.unity
+    guid: 511377ecafe51449ba425cf99634b6c8
+  - enabled: 1
+    path: Assets/Scenes/7 - Vertical 2.unity
+    guid: 53dfb0121d0704081a290463f7e35730
+  - enabled: 1
+    path: Assets/Scenes/8 - Vertical 3.unity
+    guid: a537cffd7f311464588d118a198aebd9
+  - enabled: 1
+    path: Assets/Scenes/9 - Leaderboard.unity
+    guid: df37c4d02e002420c9b5c69b2b4b0fbf
+  - enabled: 1
+    path: Assets/Scenes/10 - EndScreen.unity
+    guid: 124fbf2094e00ff4b8d5b0f808a042f5
+  m_configObjects: {}
