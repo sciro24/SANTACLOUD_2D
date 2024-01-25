@@ -11,7 +11,7 @@
 
  "**SANTA-CLOUD 2D**" E' un gioco platform che ha come protagonista Babbo Natale. L'obiettivo è quello di finire tutti i livelli impiegando 
  il minor tempo possibile. E' possibile tramite il raccoglimento dei regali ottenere un bonus sul tempo, al contrario la morte causerà un
- malus sempre sul tempo. Alla fine di ogni mondo il punteggio viene salvato all'interno della classifica aggiornandola in ordine di te.
+ malus. Alla fine di ogni mondo il punteggio viene salvato all'interno della classifica aggiornandola in ordine di tempo.
 
  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Yfkyk-ewKuU/0.jpg)](https://www.youtube.com/watch?v=Yfkyk-ewKuU)
 
