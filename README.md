@@ -45,10 +45,19 @@
  • **Leaderboard Online dedicata al mondo verticale include (Posizione / Player / Punteggio in secondi).**
  
  ---
-**SCREENSHOT PLAYFAB REGISTRAZIONE E LEADERBOARD**
+**SCREENSHOT PLAYFAB REGISTRAZIONE E LEADERBOARD:**
 
 
- 
+
+
+<p>
+  <img src="https://github.com/sciro24/SANTACLOUD_2D/blob/main/UTENTI.png?raw=true" height="200" width="350" title="">
+  <img src="https://github.com/sciro24/SANTACLOUD_2D/blob/main/LEADERBOARD.png?raw=true" height="200" width="350" title="">
+</p>
+<p>
+  <img src="https://github.com/sciro24/SANTACLOUD_2D/blob/main/ORIZZONTALE.png?raw=true" height="200" width="350" title="">
+  <img src="https://github.com/sciro24/SANTACLOUD_2D/blob/main/VERTICALE.png?raw=true" height="200" width="350" title="">
+</p>
  
  ---
  
