@@ -45,7 +45,12 @@
  • **Leaderboard Online dedicata al mondo verticale include (Posizione / Player / Punteggio in secondi).**
  
  ---
+**SCREENSHOT PLAYFAB REGISTRAZIONE E LEADERBOARD**
+
+
  
+ 
+ ---
  
 > [!CAUTION]
  **OGNI STUDENTE HA LAVORATO IN UNA REPOSITORY PROPRIETARIA ALL'INTERNO DELLE QUALI SONO STATI EFFETTUATI I DIVERSI COMMIT:**
